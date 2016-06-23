@@ -1,2 +1,2 @@
 # Git_Test
-Test Git workflow
+Test workflow
